@@ -11,9 +11,9 @@ To identify which macroeconomic and policy-related factors most strongly influen
 
 **Equation:**
 
-\[
+$$\[
 \log(\text{Hawaii Real GDP}) = \beta_0 - \beta_1 \log(\text{Brent Crude Price}) + \beta_2 \log(\text{Visitor Expenditures}) + \beta_3 \log(\text{Federal Obligations})
-\]
+\]$$
 
 ---
 
